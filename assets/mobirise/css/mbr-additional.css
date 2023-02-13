@@ -1242,6 +1242,73 @@ section.lazy-placeholder:after {
 .cid-tvnTcAIe9s .mbr-section-title {
   color: #f20943;
 }
+.cid-tvJPLUBHeR {
+  padding-top: 4rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/7448fbec1dae45411018eaa08b37357b-2000x1333.jpg");
+}
+.cid-tvJPLUBHeR .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tvJPLUBHeR .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 991px) {
+  .cid-tvJPLUBHeR .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-tvJPLUBHeR .row {
+  flex-direction: row-reverse;
+}
+.cid-tvJPLUBHeR img {
+  width: 100%;
+}
+.cid-tvJQRKcH7x {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/01-kemia-marocaines1-600x381.jpeg");
+}
+.cid-tvJQRKcH7x .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tvJQRKcH7x .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tvJQRKcH7x .row {
+  align-items: stretch;
+  justify-content: center;
+}
+.cid-tvJQRKcH7x .img-item {
+  position: relative;
+}
+.cid-tvJQRKcH7x .img-item img {
+  width: 100%;
+  object-fit: cover;
+}
+.cid-tvJQRKcH7x .img-item .img-description {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  z-index: 2;
+  padding: .5rem 1rem .5rem;
+  word-break: break-word;
+}
+.cid-tvJQRKcH7x .img-item .img-description p {
+  margin-bottom: 0;
+}
 .cid-tvnTMv1N4A {
   padding-top: 8rem;
   padding-bottom: 8rem;
